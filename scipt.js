@@ -18,4 +18,4 @@ function randomHex() {
 document.getElementById('random-btn').addEventListener('click', function() {
   var color = randomHex();
   setBoxColor(color);
-});
+
